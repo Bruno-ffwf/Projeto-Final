@@ -211,4 +211,9 @@ header{
     padding: 10px;
 }
 
+.divsobre{
+    display: flex;
+    flex-direction: row;
+}
+
 `
