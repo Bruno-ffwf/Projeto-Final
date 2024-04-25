@@ -16,9 +16,9 @@ export default function Header() {
   </div>
 
 <div className='divlinks'>
-  <a className='linkheader' href=""><img className='imgheader' src={Linkedin} alt="Linkedin" /></a>
+  <a className='linkheader' href="https://www.linkedin.com/in/bruno-silva-55a1a8304/"><img className='imgheader' src={Linkedin} alt="Linkedin" /></a>
   <a className='linkheader' href="https://github.com/Bruno-ffwf"><img className='imgheader' src={Github} alt="Github" /></a>
-  <a className='linkheader' href=""><img className='imgheader' src={Facebook} alt="Facebook" /></a>
+  <a className='linkheader' href="https://www.facebook.com/profile.php?id=61559015575589"><img className='imgheader' src={Facebook} alt="Facebook" /></a>
 </div>
 
 
