@@ -21,7 +21,7 @@ export default function projetos() {
 </div>
 
 <div className='divprojetos'>
-  <a className='linkprojeotos' href="https://github.com/Bruno-ffwf/Desafio"><img className='imgprojetos' src={Mc} alt="Site McDonald's" /></a>
+  <a className='linkprojeotos' href="https://mac-rosy.vercel.app/"><img className='imgprojetos' src={Mc} alt="Site McDonald's" /></a>
   <figure className='figprojetos'>Site McDonald's feito em React.</figure>
 </div>
 </Carousel>
